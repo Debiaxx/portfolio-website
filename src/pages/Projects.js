@@ -1,6 +1,7 @@
 import React from "react";
 import { FaRegEye, FaGithub } from "react-icons/fa";
 import senju from "../senju.png";
+import linkme from "../linkme.png";
 
 const ProjectsData = [
   {
@@ -21,6 +22,15 @@ const ProjectsData = [
     url: "https://zenoo.netlify.app/",
     github: "https://zeno.netlify.app/",
     techStack: "MERN, Solidity, ether.js, TailwindCSS",
+  },
+  {
+    title: "linkME",
+    description:
+      "A webapp where you can place all your social media links at one place and share them with anyone",
+    image: linkme,
+    url: "https://linkmehq.netlify.app/",
+    github: "https://github.com/starc007/linkme",
+    techStack: "React, TailwindCSS, Node, MongoDB, Google Auth",
   },
   {
     title: "Payifi",

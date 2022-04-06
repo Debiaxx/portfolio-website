@@ -16,22 +16,24 @@ const About = () => {
             Saurabh
           </span>
         </label>
-        <label className="text-5xl sm:text-7xl font-extrabold text-gray-700 py-3">
+        <label className="text-4xl sm:text-7xl font-extrabold text-gray-700 py-3">
           I am a <span className="gradient-text">Full Stack Developer</span>
         </label>
-        <p className="text-lg sm:text-xl font-semibold py-3 text-gray-500">
-          Exploring Web3.0 and learning how can I turn my bugs into features.
-          Love to talk about startups, tech and life. Currently working at{" "}
+        <p className="text-md sm:text-xl font-semibold py-3 text-gray-500">
+          Discovering Web3.0 and figuring out how to transform my flaws into
+          strengths. I enjoy talking about startups, technology, and life in
+          general.{" "}
           <a
             href="https://linkedphone.com/"
             target="_blank"
             className="underline text-gray-700"
           >
             Linkedphone
-          </a>
+          </a>{" "}
+          is where I'm now employed.
         </p>
         <p className="text-gray-500 text-lg font-semibold">
-          any opportunity for me? Schedule a{" "}
+          Is there any prospect for me? Set up a{" "}
           <a
             href="https://calendly.com/saurabbhh/30min"
             target="_blank"
