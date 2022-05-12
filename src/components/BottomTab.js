@@ -76,7 +76,7 @@ const BottomTab = () => {
             <FaSuitcase />
           </NavLink>
           <a
-            href="https://twitter.com/_saurrabbh"
+            href="https://twitter.com/saurra3h"
             target="_blank"
             className="text-gray-500 hover:scale-150 transition duration-300"
           >
